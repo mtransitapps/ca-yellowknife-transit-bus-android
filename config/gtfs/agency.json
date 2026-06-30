@@ -1,6 +1,6 @@
 {
     "target_route_type_id": 3,
-    "default_color": "FFD400",
+    "default_color": "FFC20F",
     "default_color_comment": "YELLOW (from website CSS)",
     "default_color_enabled": true,
     "default_strings_cleaner_enabled": true,
